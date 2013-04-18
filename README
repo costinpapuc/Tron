@@ -1,0 +1,3 @@
+	Etapa 1
+	
+	Am ales ca solutie simpla ca playerul nostru sa mearga acolo unde gaseste spatiu liber. Verifica directiile RIGHT LEFT UP DOWN in aceasta ordine insa imediat ce una dintre mutari este posibila o alegea pe aceea, neajungandu-se la verificarea celorlalte. 
